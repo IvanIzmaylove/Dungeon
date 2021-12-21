@@ -113,7 +113,7 @@ namespace Lab_5_MDI
             else
             {
                 StreamWriter sw = new StreamWriter(SaveFileName);
-                sw.WriteLine(richTextBox1.Text); sw.Close(); //slave goes to dungeon of his master
+                sw.WriteLine(richTextBox1.Text); sw.Close(); //slave goes to dungesadfszdfgszdfzsdf
                 DocName = SaveFileName;
             }
         }
@@ -132,11 +132,11 @@ namespace Lab_5_MDI
         }
 
         private void textBox1_TextChanged(object sender, EventArgs e) //ALalalalalla
-        {
+        {// BAZIROVANOST
 
         }
 
-        private void textBox2_TextChanged(object sender, EventArgs e) //maiil of Dungeon
+        private void textBox2_TextChanged(object sender, EventArgs e) // BAZA
         {
 
         }
