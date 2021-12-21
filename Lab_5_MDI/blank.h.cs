@@ -113,7 +113,7 @@ namespace Lab_5_MDI
             else
             {
                 StreamWriter sw = new StreamWriter(SaveFileName);
-                sw.WriteLine(richTextBox1.Text); sw.Close(); //Устанавливаемимя документа
+                sw.WriteLine(richTextBox1.Text); sw.Close(); //slave goes to dungeon of his master
                 DocName = SaveFileName;
             }
         }
