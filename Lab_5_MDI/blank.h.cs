@@ -131,12 +131,12 @@ namespace Lab_5_MDI
                 }
         }
 
-        private void textBox1_TextChanged(object sender, EventArgs e) //name - Billy Harington 123
+        private void textBox1_TextChanged(object sender, EventArgs e) //ALalalalalla
         {
 
         }
 
-        private void textBox2_TextChanged(object sender, EventArgs e) //mail
+        private void textBox2_TextChanged(object sender, EventArgs e) //maiil of Dungeon
         {
 
         }
